@@ -1,0 +1,8 @@
+//Simple Program In Java 
+
+public class problem01 {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
